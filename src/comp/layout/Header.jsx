@@ -14,7 +14,7 @@ const Header = () => {
     <nav className="navbar navbar-expand-lg">
       <div className="container-fluid">
         <Link className="logo" to="/">
-          <img className="navbar-brand mx-5 mt-2" src="public/img/logo-no-background.png" alt="Logo" style={{ width: "150px" }} />
+          <img className="navbar-brand mx-5 mt-2" src="https://res.cloudinary.com/diyqncua4/image/upload/v1728020171/Blogtastic/lhrbkhazdwkkrpfzjc1x.png" alt="Logo" style={{ width: "150px" }} />
         </Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>

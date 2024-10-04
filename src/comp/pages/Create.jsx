@@ -30,7 +30,7 @@ const Create = () => {
         <div className='col-6 mx-auto my-5 p-5 shadow'>
             <form onSubmit={handleSubmit(submitData)}>
                 <div className="head d-flex">
-                    <img src="/public/img/bg-from.png" alt="" className='w-25 h-25' />
+                <img src="https://res.cloudinary.com/diyqncua4/image/upload/v1728020169/Blogtastic/omsmnkugqlx7nwjhyc5q.png" alt="" className='w-25 h-25' />
                     <h1 className='text-center mt-5 mx-5'>Writer Blog</h1>
                     <p className='text-center mt-4 '>Your Daily Dose of Inspiration</p>
                 </div>

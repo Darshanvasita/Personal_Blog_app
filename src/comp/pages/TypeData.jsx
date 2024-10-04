@@ -7,22 +7,22 @@ const TypeData = () => {
       <div className="row mx-5 my-5">
         <h1 className="Buzz-title text-center fw-bold mb-4" style={{ color: "#844685" }}>Blogger Buzz</h1>
         <div className="col-12 col-md-6 col-lg-4 mb-4">
-          <Type Img="public/img/Sports.jpg" Name="Sports" />
+          <Type Img="https://res.cloudinary.com/diyqncua4/image/upload/v1728020173/Blogtastic/wbkno5bplcjm0hukrdze.jpg" Name="Sports" />
         </div>
         <div className="col-12 col-md-6 col-lg-4 mb-4">
-          <Type Img="public/img/Music.jpeg" Name="Music" />
+          <Type Img="https://res.cloudinary.com/diyqncua4/image/upload/v1728020172/Blogtastic/tjwc9vwiu7vq8eye4gv8.jpg" Name="Music" />
         </div>
         <div className="col-12 col-md-6 col-lg-4 mb-4">
-          <Type Img="public/img/Business.jpg" Name="Business" />
+          <Type Img="https://res.cloudinary.com/diyqncua4/image/upload/v1728020172/Blogtastic/rkd44mb16wwdjcc2yhaf.jpg" Name="Business" />
         </div>
         <div className="col-12 col-md-6 col-lg-4 mb-4">
-          <Type Img="public/img/Fashion and beauty.jpg" Name="Fashion and beauty" />
+          <Type Img="https://res.cloudinary.com/diyqncua4/image/upload/v1728020170/Blogtastic/npv3rrgjunf41i7fwrlx.jpg" Name="Fashion and beauty" />
         </div>
         <div className="col-12 col-md-6 col-lg-4 mb-4">
-          <Type Img="public/img/Travel.jpg" Name="Travel" />
+          <Type Img="https://res.cloudinary.com/diyqncua4/image/upload/v1728020172/Blogtastic/vyxcfuz5xr1fnz3x6rsg.jpg" Name="Travel" />
         </div>
         <div className="col-12 col-md-6 col-lg-4 mb-4">
-          <Type Img="public/img/Art and design.jpg" Name="Art and design" />
+          <Type Img="https://res.cloudinary.com/diyqncua4/image/upload/v1728020168/Blogtastic/z9fzlzvp9cbmeclrrkyj.jpg" Name="Art and design" />
         </div>
       </div>
     </>

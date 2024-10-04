@@ -41,13 +41,14 @@ const Blog = () => {
                                 <div className="card-body bg-black text-white">
                                     <h3>{blog.b_title}</h3>
                                   <div className='data d-flex'>  
-                                     <div className="auth bg-secondary  rounded-pill"> <img src="public/img/writer.png" alt="" width={'25px'}/></div><br />
+                                     <div className="auth bg-secondary  rounded-pill">
+ <img src="https://res.cloudinary.com/diyqncua4/image/upload/v1728020172/Blogtastic/xlzd9t5kh1z2mjqiriex.png" alt="" width={'25px'}/></div><br />
                                       <span  className='mx-2 '> {blog.b_writer}</span>
                                   
                                     <span className='mx-2 '>{blog.b_category}</span> 
                                
                                      </div> <NavLink  className=' text-white h-5  mx-4  mt-1  btn btn-outline-secondary ' to={`/Read/${blog.id}`}>Read More..
-                                         <img src="public/img/read.png" alt="" width={'25px'}/></NavLink>
+                                         <img src="https://res.cloudinary.com/diyqncua4/image/upload/v1728020172/Blogtastic/lajt1jxadcuxdyjhp381.png" alt="" width={'25px'}/></NavLink>
                                     
                                 </div>
                             </div>
